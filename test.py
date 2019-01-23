@@ -79,8 +79,8 @@ with open(r"C:\spyderSoft\out.txt") as file:
 diff = 0
 for index, res_col in enumerate(res):
     diff += abs(res_col - student_results[index])
-    #d=abs(res_col - student_results[index])
-    #print("video",index," ", 100-d/res[index]*100)
+    d=abs(res_col - student_results[index])
+    print("video",index," ", 100-d/res[index]*100)
 percentage = 100 - diff/sum(res)*100
 
 print( student)

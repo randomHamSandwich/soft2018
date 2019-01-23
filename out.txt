@@ -1,12 +1,12 @@
 e13271,Aleksandar Basaric
 file,count
-video1.mp4,5
-video2.mp4,15
-video3.mp4,17
-video4.mp4,17
-video5.mp4,15
-video6.mp4,19
-video7.mp4,18
-video8.mp4,19
-video9.mp4,9
-video10.mp4,18
+video1.mp4,4
+video2.mp4,21
+video3.mp4,18
+video4.mp4,16
+video5.mp4,17
+video6.mp4,23
+video7.mp4,21
+video8.mp4,21
+video9.mp4,10
+video10.mp4,20
