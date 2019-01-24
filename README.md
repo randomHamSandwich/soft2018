@@ -10,5 +10,5 @@ test.py program koji validira uspešnost vašeg rešenja nad train skupom podata
 Izmeniti putanje na liniji 6 i 22 ka res.txt i out.txt
 
 res.txt tacno rešenje za svaki video zapis (kombinacija ime fajla i broj)
-out.txt fajl u koji je potrebno upisati rezultat koje je vaš program izracunao (trenutno su sve nule)
+out.txt fajl u koji je potrebno upisati rezultat koje je vaš program izracunao 
 
